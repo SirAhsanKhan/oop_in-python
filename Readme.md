@@ -64,7 +64,7 @@ I’m focusing on understanding and applying the core concepts of OOP in Python,
   - [x] Add students  
   - [x] Enroll courses  
   - [x] Store exam results  
-  - [ ] View report cards  
+  - [x] View report cards  
   - [ ] Add teachers and departments
 
 - [ ] Add more real-world examples (banking app, library management)
