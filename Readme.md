@@ -53,7 +53,7 @@ I’m focusing on understanding and applying the core concepts of OOP in Python,
 | Inheritance        | ✅     | All projects        |
 | `super()` Function | ✅     | All projects          |
 | Polymorphism       | ✅     | Multiple class examples |
-| Encapsulation      | 🛠️     | All projects             |
+| Encapsulation      | ✅     | All projects             |
 | Reusability & DRY  | ✅     | All projects           |
 
 ---
