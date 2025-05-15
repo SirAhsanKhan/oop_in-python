@@ -36,14 +36,24 @@ class Students:
         else :
             print(f"You must enroll in ``{course}`` first")
 
-    
+    def View_result(self):
+        if self.result:
+            print(self.result)
+        else :
+            print("Make sure to add result first")
 
+
+# store basic info
 student1 = Students("Ahsan", 2321, 17, "CS")
+#enroll in new Course
 student1.Enroll_course("Python")
 student1.Enroll_course("Maths")
+# Adding result of respective courses
 student1.Add_result("Python", 85)
 student1.Add_result("Maths", 85)
+#shows only result
+student1.View_result()
+#showing collective info
 student1.Show_info()
-# print(student1.Show_info())
         
         
