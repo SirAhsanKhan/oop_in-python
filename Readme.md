@@ -50,10 +50,10 @@ I’m focusing on understanding and applying the core concepts of OOP in Python,
 | `__init__()` Method| ✅     | All projects           |
 | Instance Methods   | ✅     | University, Car Showroom |
 | Lists & Dicts in Objects | ✅ | University System     |
-| Inheritance        | ✅     | Car Showroom           |
-| `super()` Function | ✅     | Car Showroom           |
+| Inheritance        | ✅     | All projects        |
+| `super()` Function | ✅     | All projects          |
 | Polymorphism       | ✅     | Multiple class examples |
-| Encapsulation      | 🛠️     | Coming soon             |
+| Encapsulation      | 🛠️     | All projects             |
 | Reusability & DRY  | ✅     | All projects           |
 
 ---
