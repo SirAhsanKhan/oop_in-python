@@ -58,19 +58,6 @@ I’m focusing on understanding and applying the core concepts of OOP in Python,
 
 ---
 
-##  What's Next?
-
-- [ ] Finish full flow of University System:
-  - [x] Add students  
-  - [x] Enroll courses  
-  - [x] Store exam results  
-  - [x] View report cards  
-  - [ ] Add teachers and departments
-
-- [ ] Add more real-world examples (banking app, library management)
-
----
-
 ## 📎 How to Run
 
 Clone the repo and run any `.py` file using:
