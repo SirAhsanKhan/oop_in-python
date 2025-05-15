@@ -1,11 +1,11 @@
-# 🧠 Python OOP Learning Journey
+# Python OOP Learning Journey
 
 Welcome to my personal **Object-Oriented Programming (OOP)** practice repository using **Python**!  
 This repo is a collection of small projects and exercises that demonstrate my understanding of OOP principles.
 
 ---
 
-## 📚 What I'm Learning
+## What I'm Learning
 
 I’m focusing on understanding and applying the core concepts of OOP in Python, including:
 
@@ -21,14 +21,14 @@ I’m focusing on understanding and applying the core concepts of OOP in Python,
 
 ---
 
-## 🏗️ Projects I've Built So Far
+##  Projects I've Built So Far
 
-### 1. 🎓 University Management System *(Work in Progress)*
+### 1.🎓 University Management System *(Work in Progress)*
 - Manages student data, course enrollment, and exam results
 - Practices class creation, lists, dicts, and function logic
 - Shows real-life usage of OOP to structure complex data
 
-### 2. 🚗 Car Showroom System
+### 2.🚗 Car Showroom System
 - Models cars, dealerships, and inventory
 - Demonstrated use of `super()` and inheritance
 - Example of dynamic object behavior (e.g. adding/removing cars)
@@ -58,7 +58,7 @@ I’m focusing on understanding and applying the core concepts of OOP in Python,
 
 ---
 
-## 🚀 What's Next?
+##  What's Next?
 
 - [ ] Finish full flow of University System:
   - [x] Add students  
